@@ -39,4 +39,12 @@ https://github.com/jiunfeng/ProjectB <br>
 
 ![螢幕擷取畫面 (273)](https://github.com/hsd325/ProjectB/assets/100175482/0f67e683-d30b-4447-bcaf-bbc3102e0a28)
 
+## 專案技術
+- GitHub 分支和上傳功能
+- Vue 3
+- Bootstrap v5.2.3
+- jQuery v1.5.1
+- sweetalert2.js
+- Laravel 8
+- Composer V2.7.6
 
